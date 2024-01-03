@@ -1,0 +1,6 @@
+1, Miata, 4, 1990, 300
+2, Dacia Spring, 5, 2023, 400
+3, Volskwagen, 4,2019, 200
+4, Tesla, 5, 2023, 400
+5, Seat, 4,2021, 200
+6, Mini Cooper, 4, 2015, 200
